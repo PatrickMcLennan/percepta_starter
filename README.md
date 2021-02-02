@@ -14,7 +14,7 @@ For testing, I've opted to use [jest](https://jestjs.io/) alongside [@testing-li
 
 |How do I...             | ...by running |
 |:--                     |            --:|
-|Run a dev server?       | `yarn start`  |
+|Run a dev server?       | `yarn start` (http://localhost:3000)  |
 |Compile for production? | `yarn build`  |
 |Run my tests?           | `yarn test`   |
 
