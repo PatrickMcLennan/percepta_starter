@@ -18,6 +18,15 @@ For testing, I've opted to use [jest](https://jestjs.io/) alongside [@testing-li
 |Compile for production? | `yarn build`  |
 |Run my tests?           | `yarn test`   |
 
+### Installation Instructions
+
+1. `git clone`...
+2. If you're running this for the first time, you'll need to run `yarn build && yarn watch` to create the needed files + directories first.
+
+Otherwise, the commands above can be run anytime
+
+#### Other notes
+
 I have successfully registered for an OMDb API key and added to a local `.env` file that is `.gitignore`'d by default.
 
 I have created a simple `<Counter />` component and included a working test (`Counter.js` & `Counter.test.js`).  These can be seen by running the `watch` and `test` commands in the table above.
