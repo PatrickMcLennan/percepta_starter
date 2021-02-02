@@ -8,6 +8,8 @@ This is a simple bare-bones webpack configuration I've put together to (I think)
 
 Things such as cache-busting, lazy-loading, better cross-browser support, etc. can be added if desired but for the sake of simplicity in the context of the assignment I didn't want to over complicate.
 
+For testing, I've opted to use [jest](https://jestjs.io/) alongside [@testing-library/react](https://testing-library.com/docs/react-testing-library/intro/).
+
 ## How to use
 
 |How do I...             | ...by running |
